@@ -1,0 +1,1012 @@
+"year","month","city","state","timezone","origin","name","lat","lng","Average Delays","Proportion of Cancelled Flights"
+2022,4,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,12.1891891891892,0.108433734939759
+2022,4,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,13.7579143389199,0.0271739130434783
+2022,4,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,13.3314888164026,0.0115154306771073
+2022,4,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,29.3552311435523,0.0329411764705882
+2022,4,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,44.6762589928058,0.0855263157894737
+2022,4,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,17.0970600080548,0.0127236580516899
+2022,4,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,24.7180277349769,0.102351313969571
+2022,4,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,15.3218390804598,0.00760456273764259
+2022,4,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,11.6256562121416,0.0179775280898876
+2022,4,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,11.7886977886978,0.00245098039215686
+2022,4,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,25.378640776699,0.0373831775700935
+2022,4,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,11.5,0.127272727272727
+2022,4,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,13.5572139303483,0
+2022,4,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,23.4183673469388,0.0754716981132075
+2022,4,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,17.1059322033898,0.0852713178294574
+2022,4,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,15.1875168873277,0.0242552069601898
+2022,4,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,13.5476493011436,0.010062893081761
+2022,4,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,28.4251968503937,0.0305343511450382
+2022,4,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,17.34375,0.135135135135135
+2022,4,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,24.0786369593709,0.0304955527318933
+2022,4,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,32.5459363957597,0.0766721044045677
+2022,4,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,13.8934841982052,0.0113789778206365
+2022,4,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,10.9328358208955,0.049645390070922
+2022,4,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,17.8984817998903,0.0163727959697733
+2022,4,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,15.0976394849785,0.00956429330499469
+2022,4,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,22.3194444444444,0.0181818181818182
+2022,4,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,52.843137254902,0.0555555555555556
+2022,4,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,32.6023856858847,0.0685185185185185
+2022,4,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,17.2675044883303,0.0159010600706714
+2022,4,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,10.0932203389831,0.056
+2022,4,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,15.4411764705882,0
+2022,4,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,13.6372093023256,0.0137614678899083
+2022,4,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,14.2484774665043,0.0132211538461538
+2022,4,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,12.224429727741,0.00947521865889213
+2022,4,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,36.3131313131313,0.0747663551401869
+2022,4,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,23.5284605433376,0.0115089514066496
+2022,4,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,21.9262295081967,0.186666666666667
+2022,4,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,13.1363844393593,0.00455580865603645
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,12.7616707616708,0.068649885583524
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,17.8567530695771,0.0317040951122853
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,13.0459330143541,0.0150801131008483
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,13.758407079646,0.00615655233069481
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,19.544315129812,0.0149911816578483
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,6.1588785046729,0
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,46.8636363636364,0.047244094488189
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,21.4569386331939,0.00709710922624199
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,20.9562773266708,0.0929178470254958
+2022,4,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,11.1989247311828,0.0116896918172157
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,11.374541003672,0.0809898762654668
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,14.1238938053097,0.0341880341880342
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,15.6464688675303,0.0107482430756511
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,16.0583543240974,0.00542797494780793
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,9.95555555555556,0
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,29.905788876277,0.0329308452250274
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,16.5289823958781,0.0072463768115942
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,22.6038575667656,0.101333333333333
+2022,4,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,9.70972495088409,0.00924574209245742
+2022,4,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,20.5863471003638,0.0420254202542025
+2022,4,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,33.071129707113,0.0271370420624152
+2022,4,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,24.3228840125392,0.042042042042042
+2022,4,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,34.7465753424658,0.0959752321981424
+2022,4,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,27.780198019802,0.0507518796992481
+2022,4,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,26.3202357563851,0.100706713780919
+2022,4,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,30.0233009708738,0.0134099616858238
+2022,4,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,18.8187134502924,0.0284090909090909
+2022,4,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,19.2457813646368,0.0292022792022792
+2022,4,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,22.869592476489,0.0244648318042813
+2022,4,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,44.2710843373494,0.043778801843318
+2022,4,"Orlando","FL","America/New_York","MCO","Hawaiian Airlines Inc.",28.4773,-81.337,33.9230769230769,0
+2022,4,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,47.1867132867133,0.0815671162491972
+2022,4,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,18.7398926654741,0.052863436123348
+2022,4,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,29.2468714448237,0.0895908855515277
+2022,4,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,23.3813481071099,0.00914913083257091
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,7.14204545454545,0.0382513661202186
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,18.4615384615385,0.037037037037037
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,12.0424466121803,0.00810669456066946
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,11.3149309912171,0.00623441396508728
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,19.0505617977528,0.0246575342465753
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,71.5333333333333,0
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,67.195652173913,0.08
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,19.411002548853,0.00905072616291307
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,29.5166666666667,0.166666666666667
+2022,4,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,10.6202090592334,0.0069204152249135
+2022,5,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,10.9634146341463,0.0238095238095238
+2022,5,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,17.207619047619,0.0112994350282486
+2022,5,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,11.7399529833203,0.0235024048972453
+2022,5,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,32.6707317073171,0.015015015015015
+2022,5,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,22.3645833333333,0.0204081632653061
+2022,5,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,13.4731543624161,0.0044543429844098
+2022,5,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,14.3267080745342,0.0134803921568627
+2022,5,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,18.9784615384615,0.0384615384615385
+2022,5,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,17.5431891697616,0.0119554924242424
+2022,5,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,12.1025641025641,0.00636942675159236
+2022,5,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,30.3039215686275,0.0192307692307692
+2022,5,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,13.8378378378378,0
+2022,5,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,11.5825242718447,0.0143540669856459
+2022,5,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,37.7130434782609,0.0416666666666667
+2022,5,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,36.7636363636364,0
+2022,5,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,15.9921875,0.0857142857142857
+2022,5,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,16.5022277227723,0.0155945419103314
+2022,5,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,11.2172284644195,0.0314389359129383
+2022,5,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,32.2131147540984,0.0317460317460317
+2022,5,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,18.0588235294118,0
+2022,5,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,18.6888888888889,0.00856793145654835
+2022,5,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,18.3814432989691,0.0267558528428094
+2022,5,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,12.2254120148857,0.0089567966280295
+2022,5,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,10.6933333333333,0.0445859872611465
+2022,5,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,16.8713579826205,0.0135305487856122
+2022,5,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,13.078781512605,0.0215827338129496
+2022,5,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,24.5071633237822,0.0056980056980057
+2022,5,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,12.2741935483871,0
+2022,5,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,22.5885167464115,0.0110410094637224
+2022,5,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,15.7612403100775,0.0242057488653555
+2022,5,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,11.440251572327,0.0185185185185185
+2022,5,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,28.9444444444444,0.027027027027027
+2022,5,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,14.3016591251885,0.0119225037257824
+2022,5,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,15.6404624277457,0.041019955654102
+2022,5,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,16.0102040816327,0.0078740157480315
+2022,5,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,27.8039215686275,0.0129032258064516
+2022,5,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,17.6719624754123,0.00810445745159838
+2022,5,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,16.2328767123288,0.0135135135135135
+2022,5,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,16.290098863804,0.0161149825783972
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,8.15180722891566,0.0503432494279176
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,17.4846461949266,0.0144736842105263
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,15.639185257032,0.00674373795761079
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,14.7474489795918,0.021630615640599
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,21.0801011804384,0.00753138075313808
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,5.55357142857143,0
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,23.8827361563518,0.00647249190938511
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,16.1303924748621,0.00772449308014162
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,18.3349619978284,0.0186467767714438
+2022,5,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,12.32995951417,0.0139720558882236
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,10.4382871536524,0.0375757575757576
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,11.8782608695652,0.0254237288135593
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,13.6296743063932,0.00876843363889996
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,15.3954418232707,0.0302442807289647
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,7.09139784946237,0
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,17.4454545454545,0.00201612903225806
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,10.8641676743249,0.00680544435548439
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,13.6335195530726,0.0143171806167401
+2022,5,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,8.71442687747036,0.0155642023346304
+2022,5,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,19.1150239633257,0.0265720081135903
+2022,5,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,25.0524137931034,0.0447957839262187
+2022,5,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,23.5913978494624,0.00711743772241993
+2022,5,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,22.84,0.0210843373493976
+2022,5,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,17.7234782608696,0.00519031141868512
+2022,5,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,17.8030560271647,0.0183333333333333
+2022,5,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,29.4613821138211,0.031496062992126
+2022,5,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,9.09444444444444,0.010989010989011
+2022,5,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,16.5058580289456,0.016271186440678
+2022,5,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,15.7675744141862,0.034841075794621
+2022,5,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,27.9962714392245,0.0183016105417277
+2022,5,"Orlando","FL","America/New_York","MCO","Hawaiian Airlines Inc.",28.4773,-81.337,28.1538461538462,0
+2022,5,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,29.8675637393768,0.0262068965517241
+2022,5,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,13.6307135810589,0.00620915032679739
+2022,5,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,23.433562992126,0.0249520153550864
+2022,5,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,16.816814159292,0.0216450216450216
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,3.60119047619048,0.0204081632653061
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,12.1923076923077,0
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,10.2818503538928,0.00327538422776518
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,11.4923076923077,0.0464547677261614
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,16.706329113924,0.00503778337531486
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,9.29032258064516,0
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,31.9036144578313,0.0119047619047619
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,13.479327117957,0.00363489499192246
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,20.0208333333333,0.0204081632653061
+2022,5,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,10.7253044654939,0.0120320855614973
+2022,6,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,6.93333333333333,0.025974025974026
+2022,6,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,32.6477732793522,0.0572519083969466
+2022,6,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,16.166782729805,0.0310936182175991
+2022,6,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,32.1383928571429,0.0175438596491228
+2022,6,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,56.7142857142857,0.0454545454545455
+2022,6,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,19.0374372829024,0.0106911034746086
+2022,6,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,19.3459037711313,0.00774193548387097
+2022,6,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,28.4861460957179,0.0547619047619048
+2022,6,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,25.8844530626212,0.0679353604082501
+2022,6,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,9.24511930585683,0.014957264957265
+2022,6,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,24.7264957264957,0.0330578512396694
+2022,6,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,24.7241379310345,0.0333333333333333
+2022,6,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,17.205,0.0099009900990099
+2022,6,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,36.125,0
+2022,6,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,18.3661971830986,0.0718954248366013
+2022,6,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,12.78515625,0.00775193798449612
+2022,6,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,25.4711274060495,0.0582649978420371
+2022,6,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,12.7105911330049,0.0356294536817102
+2022,6,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,32.9210526315789,0
+2022,6,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,54.4883720930233,0.0444444444444444
+2022,6,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,31.2216494845361,0.0177215189873418
+2022,6,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,18.8075040783034,0.0032520325203252
+2022,6,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,17.0088091353997,0.0246618933969769
+2022,6,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,12.6111111111111,0.00613496932515337
+2022,6,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,25.7387295948575,0.0477609536082474
+2022,6,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,12.1497695852535,0.050328227571116
+2022,6,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,27.1389645776567,0.00271739130434783
+2022,6,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,44,0.0508474576271186
+2022,6,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,20.5725806451613,0
+2022,6,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,16.6424778761062,0.0341880341880342
+2022,6,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,12.7251461988304,0.00581395348837209
+2022,6,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,29.78,0.0384615384615385
+2022,6,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,27.1140350877193,0.05
+2022,6,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,18.3147268408551,0.0453514739229025
+2022,6,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,13.2089552238806,0.00385462555066079
+2022,6,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,82.6325301204819,0.0348837209302326
+2022,6,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,21.4462099125364,0.0112424329778034
+2022,6,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,19.228813559322,0.00840336134453781
+2022,6,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,20.0828753898708,0.0247682502896871
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,7.42439024390244,0.0120481927710843
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,22.3426294820717,0.0208062418725618
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,24.206334841629,0.0498710232158212
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,14.6390728476821,0.032051282051282
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,12.2429752066116,0.00493421052631579
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,9.43396226415094,0
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,50.3516949152542,0.0125523012552301
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,19.000796178344,0.00364905600507695
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,14.9345327336332,0.0103857566765579
+2022,6,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,15.7934362934363,0.0326797385620915
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,10.6871508379888,0.0137741046831956
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,13.7094972067039,0.0478723404255319
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,21.4550700741962,0.05234375
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,18.8730504171201,0.036013986013986
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,16.6733668341709,0
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,17.1532567049808,0.00254777070063694
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,14.7289129454217,0.00404312668463612
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,12.1609058402861,0.00592417061611374
+2022,6,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,15.8277931671283,0.0154545454545455
+2022,6,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,11.7333333333333,0
+2022,6,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,29.1573529411765,0.0829399865138233
+2022,6,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,33.4719626168224,0.0815450643776824
+2022,6,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,20.2016806722689,0.00418410041841004
+2022,6,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,33.515306122449,0.0439024390243902
+2022,6,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,25.6966731898239,0.0191938579654511
+2022,6,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,22.1493212669683,0.0192307692307692
+2022,6,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,37.5128205128205,0.0487804878048781
+2022,6,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,20.752808988764,0.0111111111111111
+2022,6,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,28.9963636363636,0.0484429065743945
+2022,6,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,24.7001959503592,0.0371069182389937
+2022,6,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,26.3507073715562,0.0146735143066764
+2022,6,"Orlando","FL","America/New_York","MCO","Hawaiian Airlines Inc.",28.4773,-81.337,25.6923076923077,0
+2022,6,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,36.1235679214403,0.0324623911322249
+2022,6,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,24.8866015352408,0.0264945652173913
+2022,6,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,22.9502382212811,0.0146061554512259
+2022,6,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,21.3426423200859,0.0322245322245322
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,11.7491408934708,0.00342465753424658
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,39.8,0
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,20.1783187093122,0.0477088948787062
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,17.042216358839,0.0405063291139241
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,11.8575757575758,0.0119760479041916
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,10.0333333333333,0
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,63.8611111111111,0.0357142857142857
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,21.407815422989,0.00578631948749742
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,37.1,0
+2022,6,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,12.1787974683544,0.0276923076923077
+2022,7,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,7.48360655737705,0
+2022,7,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,26.216796875,0.0229007633587786
+2022,7,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,16.7592237267694,0.00858742322952334
+2022,7,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,23.3034013605442,0.0226063829787234
+2022,7,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,40.2876712328767,0.0201342281879195
+2022,7,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,22.9240177909563,0.00735835172921266
+2022,7,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,11.4944099378882,0.00124069478908189
+2022,7,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,23.0635294117647,0.0252293577981651
+2022,7,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,27.3291432351968,0.040215895861996
+2022,7,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,19.7758620689655,0.0021505376344086
+2022,7,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,30.4736842105263,0.0291970802919708
+2022,7,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,29.7627118644068,0.0483870967741935
+2022,7,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,27.6855895196507,0.0213675213675214
+2022,7,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,16.2338709677419,0
+2022,7,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,15.185628742515,0.0118343195266272
+2022,7,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,11.7202797202797,0
+2022,7,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,28.6021857923497,0.0426867545511613
+2022,7,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,21.1668639053254,0.0128504672897196
+2022,7,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,12.5666666666667,0.032258064516129
+2022,7,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,18.7415730337079,0.043010752688172
+2022,7,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,26.2273307790549,0.0357142857142857
+2022,7,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,16.7750385208012,0.00307219662058372
+2022,7,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,18.6485638047402,0.019996923550223
+2022,7,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,8.53142857142857,0
+2022,7,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,24.2902470531245,0.0229549577975862
+2022,7,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,17.9095022624434,0.00896860986547085
+2022,7,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,24.535,0.00249376558603491
+2022,7,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,11.9180327868852,0.0161290322580645
+2022,7,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,14.9584905660377,0.00250941028858218
+2022,7,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,15.1909722222222,0.0187393526405451
+2022,7,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,13.144385026738,0.00531914893617021
+2022,7,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,30,0.0185185185185185
+2022,7,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,21.71875,0.031636863823934
+2022,7,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,13.3655913978495,0.0158730158730159
+2022,7,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,14.3160061760165,0.0061381074168798
+2022,7,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,57.8361581920904,0.0220994475138122
+2022,7,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,25.6673731807263,0.0227837613918807
+2022,7,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,14.008064516129,0
+2022,7,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,24.0053837658752,0.0130790190735695
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,15.08,0.0116279069767442
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,25.9876237623762,0.0134310134310134
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,20.5546492659054,0.0246618933969769
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,16.1430934656741,0.0114472608340147
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,16.7307404637248,0.011094674556213
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,19.0630630630631,0
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,30.3481481481481,0.0181818181818182
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,27.1156835848194,0.0311577082102776
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,20.9891815616181,0.00561272217025257
+2022,7,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,20.2933696639419,0.0169642857142857
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,8.3342939481268,0.00430416068866571
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,9.24651162790698,0.00462962962962963
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,18.387730553328,0.0242566510172144
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,15.9390915347557,0.00988074957410562
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,16.4838709677419,0
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,17.1912568306011,0.00651465798045603
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,15.4293593551124,0.00841396718552798
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,12.6942889137738,0.00334821428571429
+2022,7,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,12.9108061749571,0.00892477688057799
+2022,7,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,4.36666666666667,0.032258064516129
+2022,7,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,22.2667717244484,0.0290710382513661
+2022,7,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,19.0238095238095,0.0218340611353712
+2022,7,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,21,0.00446428571428571
+2022,7,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,23.1442307692308,0.0188679245283019
+2022,7,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,18.9421338155515,0.0125
+2022,7,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,16.7605633802817,0.00420757363253857
+2022,7,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,14.2577639751553,0.0212765957446809
+2022,7,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,18.2826086956522,0.010752688172043
+2022,7,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,27.8579234972678,0.0134770889487871
+2022,7,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,20.6172839506173,0.0115924344112264
+2022,7,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,24.9610757254069,0.00632911392405063
+2022,7,"Orlando","FL","America/New_York","MCO","Hawaiian Airlines Inc.",28.4773,-81.337,50,0
+2022,7,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,28.5400907715582,0.0141685309470544
+2022,7,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,29.5975452196382,0.011809766996489
+2022,7,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,18.0434562910561,0.00502765208647562
+2022,7,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,16.6861081654295,0.00841219768664564
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,12.5659163987138,0
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,29.5769230769231,0
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,20.1899337748344,0.0182054616384915
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,10.3347280334728,0.00692520775623269
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,15.6283185840708,0.00586510263929619
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,72.3870967741936,0
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,58.9421487603306,0.0241935483870968
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,22.6625531054016,0.0153386454183267
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,27.0740740740741,0
+2022,7,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,13.452802359882,0.0087719298245614
+2022,8,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,3.93548387096774,0
+2022,8,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,22.682261208577,0.0446927374301676
+2022,8,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,11.6161971830986,0.00443665443391576
+2022,8,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,30.0107671601615,0.0132802124833997
+2022,8,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,52.3087248322148,0.0387096774193548
+2022,8,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,21.0321856287425,0.0201686835350202
+2022,8,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,12.7603406326034,0.0072463768115942
+2022,8,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,18.3529411764706,0.0328227571115974
+2022,8,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,18.4249325418241,0.0270923028457419
+2022,8,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,11.6038961038961,0.00215982721382289
+2022,8,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,22.6624203821656,0.0125786163522013
+2022,8,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,31,0.0483870967741935
+2022,8,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,17.9568965517241,0.0333333333333333
+2022,8,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,16.6434782608696,0.00862068965517241
+2022,8,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,15,0.0523255813953488
+2022,8,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,12.8194444444444,0
+2022,8,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,25.7391681109185,0.0596862904868609
+2022,8,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,23.4896551724138,0.0213723284589426
+2022,8,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,90.4375,0
+2022,8,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,79.8275862068966,0.0645161290322581
+2022,8,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,29.4606141522029,0.0832313341493268
+2022,8,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,21.8948905109489,0.0101156069364162
+2022,8,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,17.4567592881673,0.0216860109957239
+2022,8,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,17.8125,0.0112359550561798
+2022,8,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,21.8026858668393,0.0532322303921569
+2022,8,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,21.3962678375412,0.01085776330076
+2022,8,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,48.8502538071066,0.0174563591022444
+2022,8,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,13.1639344262295,0.0161290322580645
+2022,8,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,12.9238985313752,0.00398936170212766
+2022,8,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,26.4309210526316,0.0394944707740916
+2022,8,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,20.0793650793651,0
+2022,8,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,37.6808510638298,0.0208333333333333
+2022,8,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,22.2925170068027,0.0239043824701195
+2022,8,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,9.44842105263158,0.00523560209424084
+2022,8,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,17.9910492292392,0.00593178447849728
+2022,8,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,54.7237569060773,0.00549450549450549
+2022,8,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,25.2845459672871,0.0254225642435069
+2022,8,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,11.7967479674797,0
+2022,8,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,20.416248606466,0.0115702479338843
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,12.2560975609756,0.00966183574879227
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,22.7624466571835,0.00706214689265537
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,20.1294416243655,0.0295566502463054
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,13.8228905597327,0.00663900414937759
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,21.2814814814815,0.00668896321070234
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,7.09009009009009,0
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,39.9372693726937,0.0145454545454545
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,27.1875094282697,0.0357818181818182
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,15.9352941176471,0.0103000447828034
+2022,8,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,14.4823641563394,0.025092936802974
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,9.35857142857143,0.00284900284900285
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,8.51048951048951,0.00694444444444444
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,17.2535657686212,0.0284834488067744
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,11.792817679558,0.00821917808219178
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,13.4477611940299,0
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,16.7589967284624,0.00650054171180932
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,14.7586929199832,0.016075845012366
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,11.8127128263337,0.0123318385650224
+2022,8,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,10.3312331233123,0.00980392156862745
+2022,8,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,2.58620689655172,0.0645161290322581
+2022,8,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,18.4037526059764,0.0252878753669
+2022,8,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,17.4813664596273,0.00617283950617284
+2022,8,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,24.5125628140704,0.005
+2022,8,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,28.8009708737864,0.0328638497652582
+2022,8,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,14.2350813743219,0.0160142348754448
+2022,8,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,8.53041018387553,0.00841514726507714
+2022,8,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,25.8724832214765,0.0261437908496732
+2022,8,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,16.5483870967742,0
+2022,8,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,24.8649222065064,0.0200970200970201
+2022,8,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,15.1190476190476,0.00575815738963532
+2022,8,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,26.9762760603882,0.0028673835125448
+2022,8,"Orlando","FL","America/New_York","MCO","Hawaiian Airlines Inc.",28.4773,-81.337,26.5384615384615,0
+2022,8,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,31.7131502890173,0.0177430801987225
+2022,8,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,27.3016556291391,0.0217039196631033
+2022,8,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,14.8126262626263,0.00552486187845304
+2022,8,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,19.5740343347639,0.017913593256059
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,11.0970873786408,0
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,33.7692307692308,0
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,15.3325490196078,0.0204865556978233
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,6.45866666666667,0.00662251655629139
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,25.3987915407855,0.0178041543026706
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,12.9677419354839,0
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,42.6847826086956,0.010752688172043
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,24.3685819070905,0.0248360818597258
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,16.64,0.0384615384615385
+2022,8,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,10.3654135338346,0.00894187779433681
+2022,9,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,7.09574468085106,0.0208333333333333
+2022,9,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,16.8976377952756,0.00974658869395711
+2022,9,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,5.68383966732124,0.0104023776863283
+2022,9,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,28.4863459037711,0.0253485424588086
+2022,9,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,26.5491329479769,0.00574712643678161
+2022,9,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,12.0717251793129,0.0243093922651934
+2022,9,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,7.7521186440678,0.010482180293501
+2022,9,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,6.75208333333333,0
+2022,9,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,10.3232346772314,0.0163896848137536
+2022,9,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,3.88558352402746,0.0113122171945701
+2022,9,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,16.9179104477612,0.0359712230215827
+2022,9,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,18.4736842105263,0
+2022,9,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,10.1441860465116,0.0271493212669683
+2022,9,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,14.8661417322835,0.0592592592592593
+2022,9,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,5.19883040935673,0.00581395348837209
+2022,9,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,8.03802281368821,0.00754716981132075
+2022,9,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,17.1995433789954,0.00904977375565611
+2022,9,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,9.94634703196347,0
+2022,9,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,17.9591836734694,0.0925925925925926
+2022,9,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,27.3928571428571,0.0175438596491228
+2022,9,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,12.3557567917206,0.0177890724269377
+2022,9,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,16.7517433751743,0.0258152173913043
+2022,9,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,6.41390557939914,0.00834184542049711
+2022,9,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,7.19161676646707,0
+2022,9,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,17.5194435132417,0.0141287284144427
+2022,9,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,8.47167630057803,0
+2022,9,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,28.3333333333333,0.0234192037470726
+2022,9,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,12.051724137931,0.0333333333333333
+2022,9,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,12.0905349794239,0.018842530282638
+2022,9,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,7.35350318471338,0.00158982511923688
+2022,9,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,7.88607594936709,0
+2022,9,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,20.8181818181818,0.0222222222222222
+2022,9,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,15.725258493353,0.00587371512481645
+2022,9,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,10.1007927519819,0
+2022,9,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,14.6650532429816,0.00863723608445298
+2022,9,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,33.9315789473684,0.0155440414507772
+2022,9,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,17.7137676292814,0.00852310560660541
+2022,9,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,14.2605042016807,0.00833333333333333
+2022,9,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,10.0884353741497,0.00436484045755569
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,10.6410256410256,0.0105708245243129
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,13.821768707483,0.00135869565217391
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,15.0690298507463,0.00371747211895911
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,9.70948275862069,0.00172117039586919
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,21.1590636254502,0.0171091445427729
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,10.6168224299065,0
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,33.3826366559486,0.00955414012738853
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,18.2544481184066,0.0135135135135135
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,15.3337651122625,0.0169779286926995
+2022,9,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,7.90009891196835,0.000988142292490119
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,10.7025796661608,0.00902255639097744
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,5.08974358974359,0
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,14.9161101836394,0.0086884567645842
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,10.4390243902439,0.00527426160337553
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,8.31666666666667,0
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,15.2634989200864,0.0043010752688172
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,14.5447306791569,0.00605214152700186
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,8.18482905982906,0.00319488817891374
+2022,9,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,5.06570433051269,0.00544554455445545
+2022,9,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,11.4,0
+2022,9,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,20.9995048279277,0.0401615969581749
+2022,9,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,14.9239302694136,0.00158227848101266
+2022,9,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,23.6705202312139,0.0280898876404494
+2022,9,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,24.1483050847458,0.036734693877551
+2022,9,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,18.7294776119403,0.0428571428571429
+2022,9,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,16.9590043923865,0.0115774240231548
+2022,9,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,17.2935483870968,0.0282131661442006
+2022,9,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,22.5828220858896,0.0944444444444444
+2022,9,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,18.5557418273261,0.085823754789272
+2022,9,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,10.7894339622642,0.0721288515406162
+2022,9,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,21.4372881355932,0.112114371708051
+2022,9,"Orlando","FL","America/New_York","MCO","Hawaiian Airlines Inc.",28.4773,-81.337,12.6666666666667,0
+2022,9,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,24.2620274914089,0.103235747303544
+2022,9,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,18.3127889060092,0.0807365439093484
+2022,9,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,15.8204419889503,0.0995024875621891
+2022,9,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,14.9282115869018,0.0894495412844037
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,7.43396226415094,0.00313479623824451
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,17.3703703703704,0
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,10.6577422025945,0.00548998078506725
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,5.01428571428571,0.0014265335235378
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,18.9853801169591,0.0256410256410256
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,4.73333333333333,0
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,42.4545454545455,0.0222222222222222
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,14.9976028765481,0.00674603174603175
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,7.18965517241379,0
+2022,9,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,8.26148969889065,0.00473186119873817
+2022,10,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,9.90476190476191,0
+2022,10,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,13.3833634719711,0.0036036036036036
+2022,10,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,6.46067982948171,0.00324275970032428
+2022,10,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,28.736160188457,0.0173611111111111
+2022,10,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,24.1455399061033,0
+2022,10,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,11.3487161693269,0.0133515919205751
+2022,10,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,15.5901803607214,0.0244379276637341
+2022,10,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,10.9212454212454,0.00364963503649635
+2022,10,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,11.2210866618,0.00518726008922087
+2022,10,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,5.65625,0
+2022,10,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,20.1911764705882,0.0072992700729927
+2022,10,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,10.3974358974359,0
+2022,10,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,11.4325396825397,0.015625
+2022,10,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,11.9857142857143,0.0476190476190476
+2022,10,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,9.98314606741573,0
+2022,10,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,13.5497835497835,0.00431034482758621
+2022,10,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,15.6842445114077,0.00300429184549356
+2022,10,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,13.5032467532468,0.00431034482758621
+2022,10,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,37.6229508196721,0.0161290322580645
+2022,10,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,20.5040650406504,0
+2022,10,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,9.046875,0.00239808153477218
+2022,10,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,14.9193121693122,0.0232558139534884
+2022,10,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,6.2432770481551,0.00513299113392441
+2022,10,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,8.83040935672515,0.00581395348837209
+2022,10,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,16.446121217065,0.0117694478033051
+2022,10,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,10.4346330275229,0.00342857142857143
+2022,10,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,31.6068181818182,0.0265486725663717
+2022,10,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,13.7903225806452,0
+2022,10,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,13.3485639686684,0.00905562742561449
+2022,10,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,10.0886627906977,0.00434153400868307
+2022,10,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,5.61594202898551,0
+2022,10,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,14.5,0.0212765957446809
+2022,10,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,13.08357771261,0.00727802037845706
+2022,10,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,7.74460839954597,0.00226500566251416
+2022,10,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,19.9,0.0105359596885021
+2022,10,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,23.4569536423841,0.00657894736842105
+2022,10,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,14.4086663207058,0.00593242197575445
+2022,10,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,13.1008403361345,0.0403225806451613
+2022,10,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,9.81337927074361,0.0030055817947617
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,10.632860040568,0.00202429149797571
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,14.4213483146067,0.00835654596100279
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,17.0278951817413,0.00420875420875421
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,6.33692052980132,0.00247729149463253
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,21.4324776785714,0.0126721763085399
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,15.2946428571429,0
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,22.2900302114804,0.00600600600600601
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,13.4962830805828,0.00473512873631252
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,11.3087136929461,0.0286174929463926
+2022,10,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,10.5509300265722,0.000884955752212389
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,6.68354430379747,0.00420168067226891
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,8.15294117647059,0
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,19.0733438485804,0.00196772924045651
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,10.2559833506764,0.00207684319833853
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,4.93010752688172,0
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,11.4025157232704,0.00104712041884817
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,10.1960612691466,0.00479094076655052
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,12.0123456790123,0.0171890798786653
+2022,10,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,8.02568981921979,0.00567644276253548
+2022,10,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,3.38709677419355,0
+2022,10,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,15.4944108057755,0.00255516840882695
+2022,10,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,12.6267496111975,0.00310077519379845
+2022,10,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,17.4378378378378,0.00537634408602151
+2022,10,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,27.0284552845528,0.0120481927710843
+2022,10,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,12.7260034904014,0.0154639175257732
+2022,10,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,12.6565656565657,0.026685393258427
+2022,10,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,14.0984455958549,0.00515463917525773
+2022,10,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,11.5698924731183,0
+2022,10,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,9.07276507276507,0.0020746887966805
+2022,10,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,8.14522821576763,0.000691085003455425
+2022,10,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,26.5157759175789,0.00766773162939297
+2022,10,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,17.1940622737147,0.00432588320115357
+2022,10,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,9.97551978537894,0.0086436170212766
+2022,10,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,12.8390441839495,0.0159716060337178
+2022,10,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,7.513353115727,0.000988142292490119
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,9.49584487534626,0
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,17.4444444444444,0
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,14.0537377597325,0.00522689474934664
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,6.92729766803841,0
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,23.6776859504132,0.0215633423180593
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,39.7096774193548,0
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,25.8817204301075,0
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,15.8010301411675,0.00587900625829698
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,14.0235294117647,0.0340909090909091
+2022,10,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,5.67751060820368,0.00141242937853107
+2022,11,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,8.30645161290323,0
+2022,11,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,11.0905660377358,0.00749063670411985
+2022,11,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,7.08085082374182,0.00354191263282172
+2022,11,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,30.9157458563536,0.020297699594046
+2022,11,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,25.6778846153846,0
+2022,11,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,11.3544494720965,0.00711344065892924
+2022,11,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,17.2821917808219,0.00815217391304348
+2022,11,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,10.7348927875244,0.00194552529182879
+2022,11,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,12.9098071739581,0.00781732153877803
+2022,11,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,5.453125,0.00444444444444444
+2022,11,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,18.8083333333333,0.0163934426229508
+2022,11,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,18.9090909090909,0
+2022,11,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,13.1007751937984,0.00386100386100386
+2022,11,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,22.1351351351351,0.0364583333333333
+2022,11,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,20.6,0
+2022,11,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,17.1884057971014,0.0142857142857143
+2022,11,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,18.1294403892944,0.0162757300143609
+2022,11,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,16.5564245810056,0.00665926748057714
+2022,11,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,42.7391304347826,0.08
+2022,11,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,23.3739130434783,0.0170940170940171
+2022,11,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,10.5679172056921,0.0202788339670469
+2022,11,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,18.5338235294118,0.0229885057471264
+2022,11,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,11.1263928155663,0.00906394199077126
+2022,11,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,18.3701298701299,0.0128205128205128
+2022,11,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,18.5657928663515,0.0130630248536772
+2022,11,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,19.0591787439614,0.00719424460431655
+2022,11,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,32.4886731391586,0.0252365930599369
+2022,11,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,11.3559322033898,0
+2022,11,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,12.9223684210526,0.012987012987013
+2022,11,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,15.9591194968553,0.00469483568075117
+2022,11,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,12.8601398601399,0.0272108843537415
+2022,11,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,19.1315789473684,0.0256410256410256
+2022,11,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,28.0992,0.0110759493670886
+2022,11,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,13.4631463146315,0.00872410032715376
+2022,11,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,21.2921157118548,0.00843644544431946
+2022,11,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,28.6275862068966,0.00684931506849315
+2022,11,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,14.6429643783267,0.0101323966495542
+2022,11,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,13.7712765957447,0
+2022,11,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,12.6278786030197,0.00258594463036203
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,10.4432548179872,0.0147679324894515
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,23.4351713859911,0.00592592592592593
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,19.2519230769231,0.00287631831255992
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,10.6411359724613,0.00257510729613734
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,27.4569816643159,0.0104675505931612
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,29.8532110091743,0.00909090909090909
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,30.8157894736842,0
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,13.321440208537,0.00389483933787731
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,17.7266031195841,0.00859106529209622
+2022,11,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,9.54436689930209,0.00099601593625498
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,8.19921363040629,0.0116580310880829
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,16.7671232876712,0.0135135135135135
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,18.7955449482896,0.0055379746835443
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,9.51304654442877,0.00595864002804066
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,18.7777777777778,0.010989010989011
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,13.58841778697,0.00103305785123967
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,9.13045475424897,0.00366132723112128
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,12.0020491803279,0.00408163265306122
+2022,11,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,7.50024789291026,0.0068931560807484
+2022,11,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,2.76666666666667,0
+2022,11,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,18.7807527153322,0.00826653306613226
+2022,11,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,10.1576506955178,0.00154320987654321
+2022,11,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,32.5354330708661,0.00392156862745098
+2022,11,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,23.8544061302682,0.00760456273764259
+2022,11,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,10.9707495429616,0.0301418439716312
+2022,11,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,17.8814055636896,0.00582241630276565
+2022,11,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,13.7334801762115,0
+2022,11,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,11.4810810810811,0.0656565656565657
+2022,11,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,10.9895178197065,0.0622542595019659
+2022,11,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,8.8961038961039,0.0545702592087312
+2022,11,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,27.5367793240557,0.0644761314321141
+2022,11,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,27.6433260393873,0.0742741390952059
+2022,11,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,11.9292351679771,0.0437457279562543
+2022,11,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,22.5539262062441,0.0703605980650836
+2022,11,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,13.4673170731707,0.0579044117647059
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,7.18539325842697,0.0138504155124654
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,36.4615384615385,0
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,12.8361581920904,0.00513196480938416
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,10.2477183833116,0.0038961038961039
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,24.4564796905222,0.00957854406130268
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,4.6,0
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,43.4742268041237,0.0102040816326531
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,10.8124484748557,0.00328677074774034
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,20.5804597701149,0.00571428571428571
+2022,11,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,6.99719495091164,0.00140056022408964
+2022,12,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,30.625,0.111111111111111
+2022,12,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,28.6595744680851,0.0152380952380952
+2022,12,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,12.3023470921494,0.0168797953964194
+2022,12,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,50.4866760168303,0.0518617021276596
+2022,12,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,36.01,0.00497512437810945
+2022,12,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,21.1064529387587,0.117519042437432
+2022,12,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,23.4258620689655,0.0341382181515404
+2022,12,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,22.4234800838574,0.0245398773006135
+2022,12,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,22.0395497414055,0.0150819017179385
+2022,12,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,16.2471395881007,0.0113122171945701
+2022,12,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,16.6293103448276,0.0645161290322581
+2022,12,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,23.0175438596491,0
+2022,12,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,17.3698630136986,0.170454545454545
+2022,12,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,43.065,0.0384615384615385
+2022,12,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,21.1494661921708,0.0174825174825175
+2022,12,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,34.7958115183246,0.0728155339805825
+2022,12,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,23.8973346495558,0.0240847784200385
+2022,12,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,19.1853720050441,0.0457280385078219
+2022,12,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,75.3552631578947,0.0379746835443038
+2022,12,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,55.2710280373832,0.018348623853211
+2022,12,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,19.0673813169985,0.18375
+2022,12,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,22.6744913928013,0.0602941176470588
+2022,12,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,22.8880458346237,0.0243239159993957
+2022,12,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,32.7553956834532,0.0915032679738562
+2022,12,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,28.3615619079002,0.0174828004856333
+2022,12,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,12.4019607843137,0.0192307692307692
+2022,12,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,30.8454258675079,0.0305810397553517
+2022,12,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,87.0806451612903,0
+2022,12,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,23.4038727524205,0.038563829787234
+2022,12,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,19.2214876033058,0.0178571428571429
+2022,12,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,26.75,0.113924050632911
+2022,12,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,26.6333333333333,0.117647058823529
+2022,12,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,23.3785822021116,0.0133928571428571
+2022,12,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,25.3847758081335,0.0244150559511699
+2022,12,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,29.2641176470588,0.0454800673778776
+2022,12,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,50.8098591549296,0.0206896551724138
+2022,12,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,29.3517945544554,0.170963190970886
+2022,12,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,19.5820895522388,0.0518867924528302
+2022,12,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,31.970529039678,0.0271328671328671
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,17.6680584551148,0.0770712909441233
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,29.4601449275362,0.0360884749708964
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,17.025390625,0.0163304514889529
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,16.8327586206897,0.0325271059216013
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,26.4485852311939,0.028169014084507
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,34.4396551724138,0.00854700854700855
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,39.0774907749078,0.0109489051094891
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,25.1798932384342,0.11482123169003
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,19.3466424682396,0.0569105691056911
+2022,12,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,17.2655935613682,0.0245338567222767
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,21.5394285714286,0.0641711229946524
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,27.9756097560976,0.0120481927710843
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,21.0216432865731,0.00795228628230616
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,16.8054169636493,0.0243393602225313
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,17.7309644670051,0.0100502512562814
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,18.3612244897959,0.00608519269776876
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,19.6546762589928,0.125393258426966
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,17.5295358649789,0.0336391437308868
+2022,12,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,15.8840508806262,0.0130371801062289
+2022,12,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,18.6071428571429,0.0967741935483871
+2022,12,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,19.1483543078412,0.00505658560077053
+2022,12,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,12.441215323646,0.0206985769728331
+2022,12,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,44.4412955465587,0.0608365019011407
+2022,12,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,27.3029197080292,0.0143884892086331
+2022,12,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,23.7840670859539,0.160211267605634
+2022,12,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,19.5761973875181,0.0336605890603086
+2022,12,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,25.7705223880597,0.0165137614678899
+2022,12,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,16.7319587628866,0.101851851851852
+2022,12,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,19.1512717536814,0.0099403578528827
+2022,12,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,13.8448586891161,0.0211889346674514
+2022,12,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,34.3989104116223,0.0384167636786962
+2022,12,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,36.9942748091603,0.0150375939849624
+2022,12,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,22.1311134235172,0.123974475843209
+2022,12,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,30.749669457911,0.0430198228595529
+2022,12,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,21.0610619469027,0.0199479618386817
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,18.8939393939394,0.0958904109589041
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,34.5405405405405,0
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,17.0821950070655,0.00887021475256769
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,15.9010477299185,0.0260770975056689
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,23.0778985507246,0.0332749562171629
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,12.0322580645161,0
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,49.8942307692308,0
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,21.0477137176938,0.117027501462844
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,22.6269430051813,0.0445544554455446
+2022,12,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,19.4867149758454,0.0177935943060498
+2023,1,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,11.9402985074627,0
+2023,1,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,21.7070866141732,0.0200617283950617
+2023,1,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,14.7402489626556,0.00513062452084685
+2023,1,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,47.5994065281899,0.0453257790368272
+2023,1,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,27.6681415929204,0.00440528634361234
+2023,1,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,14.2484311554079,0.0177664974619289
+2023,1,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,28.1684867394696,0.0221205186880244
+2023,1,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,20.1539888682746,0.0110091743119266
+2023,1,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,16.1424071257875,0.0137133061924148
+2023,1,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,18.6264775413712,0.00936768149882904
+2023,1,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,27.1147540983607,0.0615384615384615
+2023,1,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,17.3620689655172,0
+2023,1,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,12.1617021276596,0.0167364016736402
+2023,1,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,43.6973684210526,0.0256410256410256
+2023,1,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,17.6490066225166,0.00657894736842105
+2023,1,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,10.8315217391304,0.010752688172043
+2023,1,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,23.1664519453749,0.013722998729352
+2023,1,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,20.098083427283,0.0133481646273637
+2023,1,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,53.4675324675325,0.072289156626506
+2023,1,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,16.5126050420168,0
+2023,1,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,11.4419525065963,0.0536828963795256
+2023,1,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,27.0224403927069,0.0151933701657459
+2023,1,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,13.563071297989,0.00529013060009919
+2023,1,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,14.3422818791946,0.0387096774193548
+2023,1,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,15.6652004315711,0.0342257133696698
+2023,1,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,16.893300248139,0.0335731414868106
+2023,1,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,27.6163522012579,0.0591715976331361
+2023,1,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,32.1967213114754,0.0161290322580645
+2023,1,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,19.0692934782609,0.0315789473684211
+2023,1,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,17.8677165354331,0.0305343511450382
+2023,1,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,15.8741258741259,0
+2023,1,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,21.1666666666667,0
+2023,1,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,24.3392330383481,0.0216450216450216
+2023,1,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,22.7560483870968,0.0139165009940358
+2023,1,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,24.6614123581337,0.0352798053527981
+2023,1,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,31.7718120805369,0.0261437908496732
+2023,1,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,20.1854381630577,0.0525953462756437
+2023,1,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,23.0601851851852,0.031390134529148
+2023,1,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,20.8080180688876,0.00575438596491228
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,13.632058287796,0.00723327305605787
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,17.7911585365854,0.00303951367781155
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,24.0736434108527,0.0114942528735632
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,19.6910994764398,0.00520833333333333
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,22.8381088825215,0.0237762237762238
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,20.1869918699187,0
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,42.4408163265306,0.0120967741935484
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,17.6365868631062,0.0220621341737956
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,15.0273804658766,0.0297383029341792
+2023,1,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,17.4958753437214,0.00546946216955333
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,13.4457547169811,0.0173812282734647
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,4.5,0
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,19.685593220339,0.0117252931323283
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,17.135599159075,0.00488145048814505
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,25.5464480874317,0.0368421052631579
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,15.7214659685864,0.00417101147028154
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,13.8172043010753,0.016099356025759
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,18.5990196078431,0.0163934426229508
+2023,1,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,12.942782152231,0.00313971742543171
+2023,1,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,19.8064516129032,0
+2023,1,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,17.7026963657679,0.00883104810597258
+2023,1,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,16.0037267080745,0.00371287128712871
+2023,1,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,33.9463601532567,0.018796992481203
+2023,1,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,20.6007326007326,0.00364963503649635
+2023,1,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,21.7377622377622,0.0171821305841924
+2023,1,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,24.6925418569254,0.03240058910162
+2023,1,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,16.8321033210332,0.00914076782449726
+2023,1,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,22.3636363636364,0.0178571428571429
+2023,1,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,11.7468706536857,0.0250847457627119
+2023,1,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,18.6086705202312,0.00802752293577982
+2023,1,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,30.1479254359591,0.0331395348837209
+2023,1,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,25.3746376811594,0.00504686373467916
+2023,1,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,13.9993478969677,0.0195012787723785
+2023,1,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,26.2442996742671,0.0164197036443732
+2023,1,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,15.9826238053866,0.00604490500863558
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,7.85010706638116,0.00426439232409382
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,63.1142857142857,0
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,12.6067151411463,0.00827147401908802
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,10.8919213973799,0.00972972972972973
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,23.4535256410256,0.0188679245283019
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,43.4838709677419,0
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,14.8315789473684,0
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,12.8614386792453,0.0158607350096712
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,16.3509615384615,0.0234741784037559
+2023,1,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,15.3979848866499,0.00625782227784731
+2023,2,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,11.0909090909091,0.0178571428571429
+2023,2,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,15.8269525267994,0.0150829562594268
+2023,2,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,8.21804708505476,0.0045045045045045
+2023,2,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,29.7708649468892,0.00453172205438067
+2023,2,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,23.9652173913043,0
+2023,2,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,7.28965517241379,0.0084473049074819
+2023,2,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,15.6854219948849,0.00929054054054054
+2023,2,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,12.3345935727788,0.0056390977443609
+2023,2,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,12.5912872660042,0.00608705639140921
+2023,2,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,4.11658031088083,0.0077120822622108
+2023,2,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,25.8101265822785,0
+2023,2,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,17.24,0.0196078431372549
+2023,2,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,5.64454976303318,0.00471698113207547
+2023,2,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,31.8341232227488,0.014018691588785
+2023,2,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,11.4343065693431,0
+2023,2,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,12.6463414634146,0.029585798816568
+2023,2,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,19.2502564102564,0.013407538578295
+2023,2,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,15.6255868544601,0.0195627157652474
+2023,2,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,51.8591549295775,0.0273972602739726
+2023,2,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,21.4235294117647,0.0229885057471264
+2023,2,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,7.68188512518409,0.0569444444444444
+2023,2,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,14.5672609400324,0.00483870967741936
+2023,2,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,13.6687445887446,0.00790242226421577
+2023,2,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,7.20634920634921,0.1
+2023,2,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,19.7937386491395,0.0446959682749504
+2023,2,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,17.4903846153846,0.0545454545454545
+2023,2,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,33.607250755287,0.0433526011560694
+2023,2,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,26.8909090909091,0.0178571428571429
+2023,2,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,18.5248,0.0458015267175573
+2023,2,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,12.2982142857143,0.0443686006825939
+2023,2,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,27.5371900826446,0.062015503875969
+2023,2,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,15.625,0
+2023,2,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,21.3343949044586,0.0156739811912226
+2023,2,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,20.6470588235294,0.0269978401727862
+2023,2,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,18.9820166987797,0.0133079847908745
+2023,2,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,29.9411764705882,0.0144927536231884
+2023,2,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,14.554120835326,0.0326908249807248
+2023,2,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,24.4010416666667,0.0153846153846154
+2023,2,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,16.5911307528193,0.00696125907990315
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,12.6881959910913,0.0344086021505376
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,15.1449752883031,0.00491803278688525
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,28.2251655629139,0.017353579175705
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,19.1886087768441,0.0110803324099723
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,20.5654618473896,0.0158102766798419
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,24.5092592592593,0
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,46.4401709401709,0.0209205020920502
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,15.9257267686103,0.0175004127455836
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,20.7346292947559,0.0212389380530973
+2023,2,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,16.716148445336,0.00499001996007984
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,14.4101123595506,0.0246575342465753
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,7.23404255319149,0
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,26.3916366906475,0.0150575730735164
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,22.1749305831019,0.0202098717450447
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,25.8802395209581,0.00595238095238095
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,21.9059633027523,0.00909090909090909
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,12.0139318885449,0.016243654822335
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,24.3526785714286,0.0218340611353712
+2023,2,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,11.6568115942029,0.00289017341040462
+2023,2,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,8,0.0357142857142857
+2023,2,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,18.232241813602,0.00476309852093256
+2023,2,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,12.1928374655647,0.00683994528043776
+2023,2,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,9.83739837398374,0.0120481927710843
+2023,2,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,16.922480620155,0.00769230769230769
+2023,2,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,11.4726930320151,0.00375234521575985
+2023,2,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,16.9449378330373,0.00530035335689046
+2023,2,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,20.0543933054393,0.010351966873706
+2023,2,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,16.4974093264249,0.0153061224489796
+2023,2,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,12.938226744186,0.00935925125989921
+2023,2,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,13.3228092783505,0.00957243139757498
+2023,2,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,21.5699873896595,0.00813008130081301
+2023,2,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,19.1759398496241,0.011887072808321
+2023,2,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,7.78799185888738,0.00740740740740741
+2023,2,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,18.4233128834356,0.0065302568567697
+2023,2,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,12.7746615087041,0.00193050193050193
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,9.56981981981982,0.0241758241758242
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,24.25,0
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,14.3869990680336,0.0103758358312197
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,15.3015681544029,0.0107398568019093
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,24.1372212692967,0.011864406779661
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,26.3214285714286,0
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,43.8405797101449,0.028169014084507
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,11.2353448275862,0.0150711101676926
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,15.705,0.024390243902439
+2023,2,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,11.4102228047182,0.00130890052356021
+2023,3,"Atlanta","GA","America/New_York","ATL","Alaska Airlines Inc.",33.7628,-84.422,6.37704918032787,0.0161290322580645
+2023,3,"Atlanta","GA","America/New_York","ATL","American Airlines Inc.",33.7628,-84.422,15.5178082191781,0.00680272108843537
+2023,3,"Atlanta","GA","America/New_York","ATL","Delta Air Lines Inc.",33.7628,-84.422,15.0041037426133,0.0130683659142456
+2023,3,"Atlanta","GA","America/New_York","ATL","Frontier Airlines Inc.",33.7628,-84.422,32.5656836461126,0.020997375328084
+2023,3,"Atlanta","GA","America/New_York","ATL","JetBlue Airways",33.7628,-84.422,32.0147058823529,0.025089605734767
+2023,3,"Atlanta","GA","America/New_York","ATL","Southwest Airlines Co.",33.7628,-84.422,13.4153790873158,0.00179340028694405
+2023,3,"Atlanta","GA","America/New_York","ATL","Spirit Air Lines",33.7628,-84.422,27.0331983805668,0.0104166666666667
+2023,3,"Atlanta","GA","America/New_York","ATL","United Air Lines Inc.",33.7628,-84.422,15.0128205128205,0.00847457627118644
+2023,3,"Charlotte","NC","America/New_York","CLT","American Airlines Inc.",35.2083,-80.8303,17.3817303740238,0.00439897698209719
+2023,3,"Charlotte","NC","America/New_York","CLT","Delta Air Lines Inc.",35.2083,-80.8303,11.125284738041,0.0112612612612613
+2023,3,"Charlotte","NC","America/New_York","CLT","Frontier Airlines Inc.",35.2083,-80.8303,15.1612903225806,0.03125
+2023,3,"Charlotte","NC","America/New_York","CLT","JetBlue Airways",35.2083,-80.8303,14.9615384615385,0.0188679245283019
+2023,3,"Charlotte","NC","America/New_York","CLT","Southwest Airlines Co.",35.2083,-80.8303,11.832,0.0118577075098814
+2023,3,"Charlotte","NC","America/New_York","CLT","Spirit Air Lines",35.2083,-80.8303,26.2875,0.0163934426229508
+2023,3,"Charlotte","NC","America/New_York","CLT","United Air Lines Inc.",35.2083,-80.8303,13.3149847094801,0.00304878048780488
+2023,3,"Chicago","IL","America/Chicago","ORD","Alaska Airlines Inc.",41.8375,-87.6866,12.7874396135266,0.0142857142857143
+2023,3,"Chicago","IL","America/Chicago","ORD","American Airlines Inc.",41.8375,-87.6866,20.6281991624011,0.0101335789958544
+2023,3,"Chicago","IL","America/Chicago","ORD","Delta Air Lines Inc.",41.8375,-87.6866,15.6366396761134,0.0275590551181102
+2023,3,"Chicago","IL","America/Chicago","ORD","Frontier Airlines Inc.",41.8375,-87.6866,53.679012345679,0
+2023,3,"Chicago","IL","America/Chicago","ORD","JetBlue Airways",41.8375,-87.6866,19.3559322033898,0.0483870967741935
+2023,3,"Chicago","IL","America/Chicago","ORD","Southwest Airlines Co.",41.8375,-87.6866,15.4313222079589,0.0334987593052109
+2023,3,"Chicago","IL","America/Chicago","ORD","Spirit Air Lines",41.8375,-87.6866,29.6476608187135,0.0172413793103448
+2023,3,"Chicago","IL","America/Chicago","ORD","United Air Lines Inc.",41.8375,-87.6866,12.1568161568162,0.0110148333088559
+2023,3,"Dallas","TX","America/Chicago","DFW","Alaska Airlines Inc.",32.7935,-96.7667,8.88666666666667,0.00662251655629139
+2023,3,"Dallas","TX","America/Chicago","DFW","American Airlines Inc.",32.7935,-96.7667,25.4673627223511,0.0226757369614512
+2023,3,"Dallas","TX","America/Chicago","DFW","Delta Air Lines Inc.",32.7935,-96.7667,20.819235225956,0.0226500566251416
+2023,3,"Dallas","TX","America/Chicago","DFW","Frontier Airlines Inc.",32.7935,-96.7667,34.6937354988399,0.0292792792792793
+2023,3,"Dallas","TX","America/Chicago","DFW","JetBlue Airways",32.7935,-96.7667,15.1311475409836,0.0161290322580645
+2023,3,"Dallas","TX","America/Chicago","DFW","Spirit Air Lines",32.7935,-96.7667,26.164,0.0170380078636959
+2023,3,"Dallas","TX","America/Chicago","DFW","United Air Lines Inc.",32.7935,-96.7667,23.0614173228346,0.00470219435736677
+2023,3,"Denver","CO","America/Denver","DEN","Alaska Airlines Inc.",39.762,-104.8758,9.67883211678832,0.0143884892086331
+2023,3,"Denver","CO","America/Denver","DEN","Allegiant Air",39.762,-104.8758,33.8709677419355,0.03125
+2023,3,"Denver","CO","America/Denver","DEN","American Airlines Inc.",39.762,-104.8758,16.8052325581395,0.0100719424460432
+2023,3,"Denver","CO","America/Denver","DEN","Delta Air Lines Inc.",39.762,-104.8758,14.9782813975449,0.0230627306273063
+2023,3,"Denver","CO","America/Denver","DEN","Frontier Airlines Inc.",39.762,-104.8758,18.9419718309859,0.00448681996634885
+2023,3,"Denver","CO","America/Denver","DEN","JetBlue Airways",39.762,-104.8758,31.4407894736842,0.0065359477124183
+2023,3,"Denver","CO","America/Denver","DEN","Southwest Airlines Co.",39.762,-104.8758,16.7060618119114,0.00580245285507055
+2023,3,"Denver","CO","America/Denver","DEN","Spirit Air Lines",39.762,-104.8758,17.6448598130841,0.00925925925925926
+2023,3,"Denver","CO","America/Denver","DEN","United Air Lines Inc.",39.762,-104.8758,16.2104155707522,0.0020997375328084
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","Alaska Airlines Inc.",36.2333,-115.2654,11.8862275449102,0.0118343195266272
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","Allegiant Air",36.2333,-115.2654,19.5072847682119,0.00264200792602378
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","American Airlines Inc.",36.2333,-115.2654,28.3484419263456,0.00749765698219306
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","Delta Air Lines Inc.",36.2333,-115.2654,15.8121118012422,0.0212765957446809
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","Frontier Airlines Inc.",36.2333,-115.2654,21.5262762762763,0.00224719101123596
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","Hawaiian Airlines Inc.",36.2333,-115.2654,14.8545454545455,0
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","JetBlue Airways",36.2333,-115.2654,46.6066176470588,0.025089605734767
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","Southwest Airlines Co.",36.2333,-115.2654,19.6698689956332,0.00865800865800866
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","Spirit Air Lines",36.2333,-115.2654,21.1628106255356,0.0135249366018597
+2023,3,"Las Vegas","NV","America/Los_Angeles","LAS","United Air Lines Inc.",36.2333,-115.2654,16.2244165170557,0.00624442462087422
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","Alaska Airlines Inc.",34.1141,-118.4068,13.0538057742782,0.0103896103896104
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","Allegiant Air",34.1141,-118.4068,26.84,0
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","American Airlines Inc.",34.1141,-118.4068,23.8503620273532,0.0056
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","Delta Air Lines Inc.",34.1141,-118.4068,18.3481727574751,0.0268347882314905
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","Hawaiian Airlines Inc.",34.1141,-118.4068,9.36612021857924,0.0161290322580645
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","JetBlue Airways",34.1141,-118.4068,28.0441767068273,0.004
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","Southwest Airlines Co.",34.1141,-118.4068,13.9918070095585,0.00588235294117647
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","Spirit Air Lines",34.1141,-118.4068,20.9491017964072,0.00890207715133531
+2023,3,"Los Angeles","CA","America/Los_Angeles","LAX","United Air Lines Inc.",34.1141,-118.4068,8.24871531346352,0.0056208482370976
+2023,3,"Miami","FL","America/New_York","MIA","Alaska Airlines Inc.",25.784,-80.2101,9.1,0.032258064516129
+2023,3,"Miami","FL","America/New_York","MIA","American Airlines Inc.",25.784,-80.2101,23.077892325315,0.00205761316872428
+2023,3,"Miami","FL","America/New_York","MIA","Delta Air Lines Inc.",25.784,-80.2101,19.4425837320574,0.0187793427230047
+2023,3,"Miami","FL","America/New_York","MIA","Frontier Airlines Inc.",25.784,-80.2101,13.7849829351536,0.00340136054421769
+2023,3,"Miami","FL","America/New_York","MIA","JetBlue Airways",25.784,-80.2101,20.4403973509934,0.0258064516129032
+2023,3,"Miami","FL","America/New_York","MIA","Southwest Airlines Co.",25.784,-80.2101,18.7456279809221,0.00788643533123028
+2023,3,"Miami","FL","America/New_York","MIA","Spirit Air Lines",25.784,-80.2101,18.7173202614379,0.00970873786407767
+2023,3,"Miami","FL","America/New_York","MIA","United Air Lines Inc.",25.784,-80.2101,16.7924187725632,0.0018018018018018
+2023,3,"Orlando","FL","America/New_York","MCO","Alaska Airlines Inc.",28.4773,-81.337,14.0657894736842,0.0172413793103448
+2023,3,"Orlando","FL","America/New_York","MCO","American Airlines Inc.",28.4773,-81.337,16.5785667324129,0.0052321778940484
+2023,3,"Orlando","FL","America/New_York","MCO","Delta Air Lines Inc.",28.4773,-81.337,17.5815991237678,0.0161637931034483
+2023,3,"Orlando","FL","America/New_York","MCO","Frontier Airlines Inc.",28.4773,-81.337,25.0162921348315,0.0182018753447325
+2023,3,"Orlando","FL","America/New_York","MCO","JetBlue Airways",28.4773,-81.337,37.425855513308,0.0204841713221601
+2023,3,"Orlando","FL","America/New_York","MCO","Southwest Airlines Co.",28.4773,-81.337,17.7622928552024,0.00915208613728129
+2023,3,"Orlando","FL","America/New_York","MCO","Spirit Air Lines",28.4773,-81.337,35.8665888759238,0.025028441410694
+2023,3,"Orlando","FL","America/New_York","MCO","United Air Lines Inc.",28.4773,-81.337,12.1441743503772,0.00583333333333333
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","Alaska Airlines Inc.",33.5722,-112.0892,12.2475442043222,0.005859375
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","Allegiant Air",33.5722,-112.0892,45.4230769230769,0.037037037037037
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","American Airlines Inc.",33.5722,-112.0892,20.2622950819672,0.0047230571060541
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","Delta Air Lines Inc.",33.5722,-112.0892,18.0126582278481,0.0206611570247934
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","Frontier Airlines Inc.",33.5722,-112.0892,23.3324099722992,0.012311901504788
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","Hawaiian Airlines Inc.",33.5722,-112.0892,3.25806451612903,0
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","JetBlue Airways",33.5722,-112.0892,49.685393258427,0
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","Southwest Airlines Co.",33.5722,-112.0892,14.0849325479764,0.00810403316999623
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","Spirit Air Lines",33.5722,-112.0892,31.6973180076628,0.018796992481203
+2023,3,"Phoenix","AZ","America/Phoenix","PHX","United Air Lines Inc.",33.5722,-112.0892,9.54639175257732,0.00342465753424658
